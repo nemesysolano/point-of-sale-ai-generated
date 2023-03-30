@@ -1,1 +1,0 @@
-ALTER TABLE pos_order_lines ADD CONSTRAINT pol_order_line_id_pk PRIMARY KEY ( order_line_id );

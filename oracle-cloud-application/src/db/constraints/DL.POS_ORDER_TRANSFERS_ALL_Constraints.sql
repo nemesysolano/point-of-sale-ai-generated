@@ -1,1 +1,0 @@
-ALTER TABLE pos_order_transfers_all ADD CONSTRAINT pota_trx_id_pk PRIMARY KEY ( trx_id );
